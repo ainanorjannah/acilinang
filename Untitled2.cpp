@@ -19,3 +19,6 @@ int main () {
 	
 	kulit.bahan("terbuat dari kulit buaya yang berkualitas tinggi");
 }
+void tas::bahan(string kulit){
+	cout<<"tas ini sangat kuat dan tahan lama "<<kulit<<" dijamin kalau kamu beli tas ini tidak akan menyesal"<<endl;
+}
